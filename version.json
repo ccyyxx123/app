@@ -1,6 +1,9 @@
 {
   "versionCode":15,
   "version":"2.1.1",
-"updateLog":"1. 优化应用操作体验\n2. 修复已知问题\n3. 优化了页面布局",
+"updateLog":"1.修复应用闪退问题，提升系统兼容性；
+2.新增设备连接功能，完善交互逻辑；
+3.优化应用性能，提升整体使用体验。
+",
   "url":"https://ghproxy.net/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release.apk"
 }
