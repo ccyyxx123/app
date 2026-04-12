@@ -1,5 +1,5 @@
 {
-  "versionCode":15,
+  "versionCode":16,
   "version":"2.1.1",
 "updateLog":"1.修复应用闪退问题，提升系统兼容性；
 2.新增设备连接功能，完善交互逻辑；
