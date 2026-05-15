@@ -2,14 +2,20 @@
   "versionCode":20,
   "version":"2.3.2",
 "updateLog":"
-界面优化
-  • 更换色轮组件，视觉效果更直观
-  • 优化触摸事件处理
   
 新增功能
   • 添加RGB自定义模式，支持预设颜色选择和保存当前颜色
   • 添加关闭RGB灯功能，点击可快速关闭RGB
   • 添加蓝牙断开功能
+
+界面优化
+  • 更换色轮组件，视觉效果更直观
+  • 优化触摸事件处理
+
+Bug 修复
+  • 修复蓝牙断开后连接状态未及时更新的问题
+  • 修复色盘仅支持滑动选色，新增点击选色功能
+- 
 ",
   "url":"https://ghproxy.net/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release.apk"
 }
