@@ -1,12 +1,14 @@
 {
   "versionCode":19,
   "version":"2.3.0",
-"updateLog":"界面优化
-• 更换色轮组件：将环形色轮改为实心圆设计，饱和度从中心到边缘渐变，视觉效果更直观
-• 优化触摸事件处理\n
+"updateLog":"
+界面优化
+  • 更换色轮组件：将环形色轮改为实心圆设计，饱和度从中心到边缘渐变，视觉效果更直观
+  • 优化触摸事件处理
+  
 新增功能
-• 添加RGB自定义模式，支持预设颜色选择和保存当前颜色
-• 添加关闭RGB灯功能，点击可快速关闭RGB
+  • 添加RGB自定义模式，支持预设颜色选择和保存当前颜色
+  • 添加关闭RGB灯功能，点击可快速关闭RGB
 ",
   "url":"https://ghproxy.net/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release.apk"
 }
