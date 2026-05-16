@@ -18,9 +18,8 @@ Bug 修复
   • 修复蓝牙断开后连接状态未及时更新的问题
   • 修复色盘仅支持滑动选色，新增点击选色功能
 ",
-  "url":"https://ghproxy.net/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release.apk",
+  "url":"https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release.apk",
   "backupUrls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release.apk",
     "https://ghp.ci/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release.apk",
     "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release.apk",
     "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release.apk"
