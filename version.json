@@ -1,10 +1,9 @@
 {
-  "versionCode":22,
-  "version":"2.3.3.260516",
+  "versionCode":23,
+  "version":"2.4.3.260527",
 "updateLog":"
-界面优化
-  • 优化色盘大小，视觉效果更佳
-  • 优化色盘操作体验
+软件优化
+  • 更新了部分内容
 ",
   "url":"https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release.apk",
   "backupUrls": [
