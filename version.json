@@ -1,9 +1,10 @@
 {
   "versionCode":25,
-  "version":"2.5.4.260601",
+  "version":"2.6.4.260602",
 "updateLog":"
 更新日志：
-  • 接入远程MQTT云端控制功能
+  • 新增巴法云云端配置
+  • 更新软件介绍
 ",
   "url":"https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release.apk",
   "backupUrls": [
