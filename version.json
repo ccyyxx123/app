@@ -1,17 +1,16 @@
 {
-  "versionCode":26,
-  "version":"2.6.4.260602",
+  "versionCode":27,
+  "version":"2.6.5.260604",
 "updateLog":"
 更新日志：
-  • 新增巴法云云端配置
-  • 更新软件介绍
+  • 修复NLE云配置参数不齐的问题
 ",
-  "url":"https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release264.apk",
+  "url":"https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app-release265.apk",
   "backupUrls": [
-    "https://gh‑proxy.com/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release264.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release264.apk",
-    "https://ghp.ci/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release264.apk",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release264.apk",
-    "https://raw.githubusercontent.com/ccyyxx123/app/main/app-release264.apk"
+    "https://gh‑proxy.com/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release265.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release265.apk",
+    "https://ghp.ci/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release265.apk",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ccyyxx123/app/main/app‑release265.apk",
+    "https://raw.githubusercontent.com/ccyyxx123/app/main/app-release265.apk"
   ]
 }
